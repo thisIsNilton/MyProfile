@@ -37,4 +37,4 @@ head(temp9)
 head(temp10)
 
 ohot <- one_hot(as.data.table(df2))
-
+fix(ohot)

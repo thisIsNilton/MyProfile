@@ -2,8 +2,10 @@
 USP artificial inteligence course
 
 1. Utilizar o conjunto de dados  "Credit Approval" do repositório "UCI Machine Learning Repository" (http://archive.ics.uci.edu/ml/machine-learning-databases/credit-screening/crx.data).
+    NE: included, main
 
 2. Eliminar os exemplos do conjunto de dados com NA
+    NE: delete line
 
 3. Converter os atributos categóricos em variáveis dummy (one-hot encoding) 
 
