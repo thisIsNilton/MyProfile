@@ -1,0 +1,11 @@
+Python 3.11.5
+
+Bibliotecas:
+pandas
+matplotlib
+seaborn
+
+Na pasta data salvar os arquivos disponibilizados para o case com o mesmo nome
+
+Executar os notebooks com final 'Exams_preprocess.ipynb' e 'Economic_n_Demographic_preprocess.ipynb' primeiro 
+para gerar as bases das analises
